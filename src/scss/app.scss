@@ -1,0 +1,8 @@
+@import 'libs/variables';
+@import 'libs/normalize';
+@import 'components/all';
+@import 'libs/media';
+
+.app {
+    display: flex;
+}
